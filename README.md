@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...als99@drexel.edu
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I still write letters
--->
+--> Part three link: [Beautiful Web Type] (https://beautifulwebtype.com/)
